@@ -15,16 +15,17 @@
 ### Project Overview
 This project focuses on analyzing the global prevalence of mental health conditions spanning two decades, including depression and bipolar disorder. Its objectives are to investigate the average prevalence of these conditions worldwide, identify the global average prevalence, and pinpoint the country with the highest prevalence for each condition and corresponding year.
 
+
 ![image](https://github.com/Rodnah/MHDP/assets/147203468/464806ad-288c-4a73-a566-e558c1c126d9)
 
 
 ### Data Sources
-The primary dataset was downloaded from data.world as a CSV file. This CSV contains detailed information about various parameters within the dataset.
+The primary dataset was downloaded from [data.world](https://data.world/) as a CSV file. This CSV contains detailed information about various parameters within the dataset.
 
 ### Tools
 1. Excel - Data Cleaning
 2. SQL Server - Data Preprocessing
-3. Tableau Data - Data Visualization
+3. Tableau - [Data Visualization](https://public.tableau.com/app/profile/aminah.atobiloye/viz/HealthcareDashboards_17052101393530/Dashboard1)
 
 ### Data Cleaning
 In the initial data preparation phase, I performed the following tasks:
@@ -74,4 +75,4 @@ Based on the analysis, I recommend the following actions:
 
 
 ### References
-data.world
+[data.world](https://data.world/)
